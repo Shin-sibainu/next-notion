@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next Notion',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'next-notion-eta.vercel.app',
   author: 'ShinCode',
 
   // open graph metadata (optional)
