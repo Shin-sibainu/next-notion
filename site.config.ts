@@ -10,7 +10,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next Notion',
+  name: 'ShinCode_Blog',
   domain: 'next-notion-eta.vercel.app',
   author: 'ShinCode',
 
